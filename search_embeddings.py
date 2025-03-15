@@ -64,7 +64,7 @@ def main():
     for i, result in enumerate(results):
         print(f"\n{i+1}. {result['file_name']} (Bank: {result['bank_name']}, Type: {result['loan_type']})")
         print(f"   Similarity: {result['similarity']:.4f}")
-        print(f"   Content preview: {result['content'][:150]}...")
+        print(f"   Content preview: {result['content']}...")
 
 if __name__ == "__main__":
     main() 

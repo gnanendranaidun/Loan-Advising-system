@@ -1,0 +1,116 @@
+Query: What are the eligibility criteria for gold loans across all banks?
+
+=== Search Results ===
+
+[Result 1]
+File: gold_loan.md
+Bank: Indian Overseas Bank
+Loan Type: gold_loans
+Similarity Score: 0.7090
+Preview: # Gold Loan
+
+## Scheme Name
+Gold Loan (Loan Against Gold Jewelry)
+
+## Eligibility Criteria
+- **Target Customers:**
+  - Individuals aged 18 years and above
+  - Indian nationals
+  - NRIs (with specific ...
+
+[Result 2]
+File: HDFC Gold Loan_ A Comprehensive Guide for 2025.md
+Bank: HDFC Bank
+Loan Type: gold_loans
+Similarity Score: 0.6474
+Preview: Conclusion
+HDFC Bank's Gold Loan product represents a well-designed financial solution that effectively
+balances traditional asset-based lending principles with modern banking conveniences. The
+compre...
+
+[Result 3]
+File: Comprehensive Analysis of State Bank of India (SBI.md
+Bank: State Bank of India (SBI)
+Loan Type: other_loans
+Similarity Score: 0.6296
+Preview: <img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
+
+# 
+
+---
+
+# Comprehensive Analysis of State Bank of India (SBI) Gold Loan: Features, Eligibility,...
+
+[Result 4]
+File: HDFC Gold Loan_ A Comprehensive Guide for 2025.md
+Bank: HDFC Bank
+Loan Type: gold_loans
+Similarity Score: 0.6169
+Preview: # HDFC Gold Loan  A Comprehensive Guide for 2025
+
+HDFC Gold Loan: A Comprehensive Guide for
+2025
+Before delving into the detailed analysis, it's important to understand that HDFC Bank offers gold
+loan...
+
+[Result 5]
+File: clean_loan.md
+Bank: Indian Overseas Bank
+Loan Type: personal_loans
+Similarity Score: 0.5518
+Preview: # Clean Loan (Personal Loan)
+
+## Scheme Name
+Clean Loan (Unsecured Personal Loan)
+
+## Eligibility Criteria
+- **Target Customers:**
+  - Salaried individuals
+  - Professionals (doctors, chartered accoun...
+
+=== Combined Context ===
+[Document 1 - Indian Overseas Bank - gold_loans]
+# Gold Loan
+
+## Scheme Name
+Gold Loan (Loan Against Gold Jewelry)
+
+## Eligibility Criteria
+- **Target Customers:**
+  - Individuals aged 18 years and above
+  - Indian nationals
+  - NRIs (with specific ...
+
+[Document 2 - HDFC Bank - gold_loans]
+Conclusion
+HDFC Bank's Gold Loan product represents a well-designed financial solution that effectively
+balances traditional asset-based lending principles with modern banking conveniences. The
+compre...
+
+[Document 3 - State Bank of India (SBI) - other_loans]
+<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
+
+# 
+
+---
+
+# Comprehensive Analysis of State Bank of India (SBI) Gold Loan: Features, Eligibility,...
+
+[Document 4 - HDFC Bank - gold_loans]
+# HDFC Gold Loan  A Comprehensive Guide for 2025
+
+HDFC Gold Loan: A Comprehensive Guide for
+2025
+Before delving into the detailed analysis, it's important to understand that HDFC Bank offers gold
+loan...
+
+[Document 5 - Indian Overseas Bank - personal_loans]
+# Clean Loan (Personal Loan)
+
+## Scheme Name
+Clean Loan (Unsecured Personal Loan)
+
+## Eligibility Criteria
+- **Target Customers:**
+  - Salaried individuals
+  - Professionals (doctors, chartered accoun...
