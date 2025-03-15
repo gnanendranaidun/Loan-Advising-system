@@ -1,0 +1,219 @@
+# Vehicle Loan
+
+## Scheme Name
+Vehicle Loan (Car, Two-Wheeler, and Commercial Vehicle Finance)
+
+## Eligibility Criteria
+- **Target Customers:**
+  - Salaried individuals
+  - Self-employed professionals
+  - Self-employed businesspersons
+  - Farmers with regular income
+  - Existing customers with good track record
+- **Age Requirements:**
+  - Minimum: 21 years
+  - Maximum: 65 years at loan maturity
+- **Income Criteria:**
+  - **For Car Loans:**
+    - Salaried: Minimum monthly income of ₹25,000
+    - Self-employed: Minimum annual income of ₹3,00,000
+  - **For Two-Wheeler Loans:**
+    - Salaried: Minimum monthly income of ₹15,000
+    - Self-employed: Minimum annual income of ₹1,80,000
+  - **For Commercial Vehicle Loans:**
+    - Minimum annual income of ₹3,60,000 or sufficient income to service the loan
+- **Employment/Business Stability:**
+  - Salaried: Minimum 2 years of employment with at least 1 year with current employer
+  - Self-employed: Minimum 3 years in current business/profession
+- **Credit Requirements:**
+  - Minimum CIBIL score of 675
+  - No history of loan defaults in the last 12 months
+  - No unsettled credit card dues
+- **Residence/Office Stability:**
+  - Minimum 1 year at current residence
+  - Stable office address for self-employed
+
+## Rules & Terms and Conditions
+- **Vehicle Types:**
+  - **New Vehicles:**
+    - Cars (passenger vehicles)
+    - Two-wheelers (motorcycles, scooters)
+    - Commercial vehicles (LCVs, trucks, taxis)
+  - **Used Vehicles:**
+    - Cars not older than 5 years
+    - Commercial vehicles not older than 3 years
+    - Two-wheelers not older than 3 years
+- **Loan Amount:**
+  - **For New Vehicles:**
+    - Cars: Up to 90% of on-road price
+    - Two-wheelers: Up to 85% of on-road price
+    - Commercial vehicles: Up to 80% of on-road price
+  - **For Used Vehicles:**
+    - Cars: Up to 70% of valuation
+    - Commercial vehicles: Up to 60% of valuation
+    - Two-wheelers: Up to 60% of valuation
+- **Loan Tenure:**
+  - Cars: 12 to 84 months (7 years)
+  - Two-wheelers: 12 to 60 months (5 years)
+  - Commercial vehicles: 12 to 60 months (5 years)
+  - Used vehicles: Maximum tenure reduced by vehicle age
+- **Repayment:**
+  - Equated Monthly Installments (EMI)
+  - Auto-debit facility from savings/current account
+  - PDCs/NACH mandate compulsory
+- **Security:**
+  - Hypothecation of the vehicle in favor of the bank
+  - RC book to be endorsed with bank's hypothecation
+- **Insurance:**
+  - Comprehensive insurance mandatory for the entire loan tenor
+  - Bank to be noted as financier/loss payee in insurance policy
+- **Co-applicant:**
+  - Required for commercial vehicle loans
+  - Optional for other vehicle loans
+- **Disbursement:**
+  - Direct to dealer/seller
+  - Processing within 3 working days of complete documentation
+
+## Interest Rates
+- **Rate Type:** Fixed or floating based on customer preference
+- **For New Vehicles (Fixed Rate):**
+  - **Cars:**
+    - Up to ₹10 lakhs: 9.25% - 11.00% p.a.
+    - Above ₹10 lakhs: 9.75% - 10.75% p.a.
+    - Electric cars: 8.75% - 10.25% p.a. (0.50% concession)
+  - **Two-wheelers:**
+    - Standard: 12.00% - 14.00% p.a.
+    - Electric: 11.00% - 13.00% p.a. (1.00% concession)
+  - **Commercial Vehicles:**
+    - LCVs: 11.50% - 13.50% p.a.
+    - HCVs: 12.00% - 14.00% p.a.
+- **For Used Vehicles (Fixed Rate):**
+  - **Cars:** Base rate + 1.50% (typically 11.00% - 13.00% p.a.)
+  - **Commercial Vehicles:** Base rate + 2.00% (typically 13.00% - 15.00% p.a.)
+  - **Two-wheelers:** Base rate + 2.00% (typically 14.00% - 16.00% p.a.)
+- **Floating Rate Option:**
+  - Linked to MCLR with reset every 6 months
+  - Generally 0.25% lower than fixed rate initially
+- **Rate Determination Factors:**
+  - CIBIL score
+  - Customer segment (salaried/self-employed)
+  - Vehicle type and age
+  - Loan amount and tenure
+  - Relationship with bank
+  - Down payment percentage
+- **Interest Concessions:**
+  - 0.25% for existing customers with good track record
+  - 0.50% for electric vehicles
+  - 0.25% for women borrowers
+  - 0.25% for loan with auto-debit from bank account
+
+## Processing Fees
+- **Car Loans:**
+  - New: 0.50% of loan amount
+    - Minimum: ₹2,500
+    - Maximum: ₹15,000
+  - Used: 1.00% of loan amount
+    - Minimum: ₹3,000
+    - Maximum: ₹20,000
+- **Two-Wheeler Loans:**
+  - New: 1.00% of loan amount
+    - Minimum: ₹1,000
+    - Maximum: ₹5,000
+  - Used: 1.50% of loan amount
+    - Minimum: ₹1,500
+    - Maximum: ₹7,500
+- **Commercial Vehicle Loans:**
+  - New: 1.00% of loan amount
+    - Minimum: ₹5,000
+    - Maximum: ₹25,000
+  - Used: 1.50% of loan amount
+    - Minimum: ₹7,500
+    - Maximum: ₹30,000
+- **Documentation Charges:** ₹500 - ₹1,000
+- **Valuation Charges (for used vehicles):** ₹500 - ₹2,000
+- **CIBIL Charges:** ₹50 per applicant
+- **RTO Endorsement Charges:** Actual as applicable
+- **Stamp Duty:** As applicable according to state laws
+- **GST:** 18% on all charges
+- **Fee Concessions:**
+  - 50% waiver on processing fee for priority customers
+  - Full waiver of processing fee during promotional periods
+
+## Documentation Requirements
+- **Identity Proof (Any One):**
+  - Aadhaar Card
+  - PAN Card (mandatory)
+  - Passport
+  - Voter ID Card
+  - Driving License
+- **Address Proof (Any One):**
+  - Aadhaar Card
+  - Passport
+  - Utility Bills (not older than 3 months)
+  - Telephone/Mobile Bill (not older than 3 months)
+  - Property Tax Receipt
+  - Registered Rent Agreement
+- **Income Proof:**
+  - **For Salaried:**
+    - Last 3 months' salary slips
+    - Form 16 for the last 2 years
+    - Last 6 months' bank statements showing salary credits
+    - Employment Certificate/ID Card
+  - **For Self-employed/Businesspersons:**
+    - Last 2 years' Income Tax Returns with computation of income
+    - Last 2 years' audited financial statements
+    - Last 6 months' bank statements of primary business/personal account
+    - GST returns (if applicable)
+    - Business registration documents/licenses
+  - **For Agriculturists:**
+    - Land ownership documents
+    - Crop pattern details
+    - Income certificate from competent authority
+    - Last 6 months' bank statements
+- **Vehicle Documents:**
+  - **For New Vehicles:**
+    - Proforma invoice from authorized dealer
+    - Quotation with on-road price breakdown
+    - Booking receipt (if applicable)
+  - **For Used Vehicles:**
+    - RC book copy
+    - Insurance policy copy
+    - NOC from existing financier (if applicable)
+    - Valuation certificate from bank-approved valuer
+    - Transfer papers and form 35
+    - Previous owner's documents
+- **Additional Documents:**
+  - 2 passport-sized photographs
+  - Signature verification from existing bank
+  - PDCs/NACH mandate form
+  - Loan foreclosure letter (in case of refinance)
+  - KYC documents of co-applicant/guarantor (if applicable)
+
+## Penalties / Special Conditions
+- **Prepayment Charges:**
+  - **For Fixed Rate Loans:**
+    - If prepaid through own funds: 2% of outstanding principal
+    - If prepaid through refinance: 3% of outstanding principal
+  - **For Floating Rate Loans:**
+    - Nil for part-prepayment up to 25% of outstanding per year
+    - For part-prepayment above 25%: 2% of the prepaid amount
+  - Prepayment allowed only after 6 EMIs have been paid
+- **Late Payment Charges:**
+  - 2% per month on the overdue EMI amount
+  - Minimum: ₹300 per instance
+- **EMI Bounce Charges:** ₹500 per instance
+- **Documentation Change Charges:** ₹500 per instance
+- **NOC Issuance Charges (after loan closure):** Nil
+- **Duplicate NOC Issuance Charges:** ₹500
+- **Loan Cancellation Charges:** 0.25% of loan amount (minimum ₹1,500)
+- **Special Conditions:**
+  - Vehicle to be registered in borrower's name
+  - Comprehensive insurance with bank clause mandatory
+  - RC book to be endorsed with bank's hypothecation
+  - Bank's consent required for taking vehicle outside India
+  - No registration as taxi for personal car loans
+  - Vehicle inspections by bank officials at regular intervals
+  - Vehicle not to be sold during loan tenure without bank's written consent
+  - Loan account can be transferred between bank branches if customer relocates
+  - Top-up loan facility available after satisfactory repayment of 12 EMIs
+  - Changes in vehicle registration details to be notified to bank 

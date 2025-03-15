@@ -1,0 +1,162 @@
+# Student Education Loan
+
+## Scheme Name
+Comprehensive Student Education Loan Scheme
+
+## Eligibility Criteria
+- **Target Students:**
+  - Indian nationals
+  - Secured admission to a recognized institution in India or abroad
+  - Admission through entrance test/merit-based selection
+  - For professional/technical courses: Secured admission through entrance test/selection process
+  - For other courses: Good academic record (minimum 50% aggregate in qualifying examination)
+- **Age Requirements:**
+  - Minimum: 18 years (for applicants who are major)
+  - Maximum: 35 years
+  - Relaxation for working professionals: Up to 40 years
+- **Co-applicant Requirement:**
+  - Parents as joint borrowers
+  - In absence of parents, guardian or spouse can be co-applicant
+  - Legal heir/guardian necessary for minority students
+- **Course Eligibility:**
+  - All recognized full-time degree/diploma courses in India
+  - Recognized professional/technical courses from recognized institutions
+  - Regular degree/diploma courses from foreign universities
+  - Job-oriented professional/technical courses offered by reputed institutions
+- **Institution Recognition:**
+  - Institutions recognized by appropriate regulatory bodies (UGC, AICTE, MCI, etc.)
+  - Institutions approved by the government
+  - Institutions with good ranking/reputation
+
+## Rules & Terms and Conditions
+- **Loan Amount:**
+  - For studies in India: Up to ₹10 lakhs
+  - For studies abroad: Up to ₹20 lakhs
+- **Expenses Covered:**
+  - Tuition fees payable to the institution
+  - Examination/Library/Laboratory fees
+  - Purchase of books/equipment/instruments/uniforms
+  - Caution deposit/building fund/refundable deposit (maximum 10% of tuition fees)
+  - Travel expenses/passage money for studies abroad
+  - Cost of a laptop/computer (if required for completion of course)
+  - Living expenses/hostel charges
+  - Insurance premium for student borrower
+- **Loan Tenure:**
+  - Course period + moratorium period + repayment period
+  - Maximum repayment period: 15 years
+- **Moratorium Period:**
+  - Course period + 6 months OR
+  - Course period + 1 year for job search, whichever is earlier
+- **Repayment Schedule:**
+  - EMI-based repayment after moratorium period
+  - Flexible repayment options based on future income potential
+  - Pre-payment allowed without penalty
+- **Security:**
+  - For loans up to ₹4 lakhs: No collateral or third-party guarantee
+  - For loans above ₹4 lakhs to ₹7.5 lakhs: Collateral OR third-party guarantee
+  - For loans above ₹7.5 lakhs: Tangible collateral security equal to 100% of loan amount
+  - Assignment of future income of student for payment of installments
+- **Margin Money:**
+  - For loans up to ₹4 lakhs: Nil
+  - For loans above ₹4 lakhs:
+    - Studies in India: 5%
+    - Studies abroad: 15%
+- **Disbursement:**
+  - Directly to institution for tuition fees
+  - Other expenses disbursed to student in stages
+
+## Interest Rates
+- **Rate Type:** Floating rate linked to bank's MCLR or Repo Rate
+- **Current Interest Rates:**
+  - For loans up to ₹7.5 lakhs: MCLR + 1.00% to 2.00% (typically 8.00% - 9.00% p.a.)
+  - For loans above ₹7.5 lakhs: MCLR + 1.50% to 2.50% (typically 8.50% - 9.50% p.a.)
+- **Interest Concessions:**
+  - 0.50% for girl students
+  - 0.50% interest concession for timely repayment (interest rebate)
+  - 1.00% interest concession for premier institutions (IITs, IIMs, NITs, AIIMS, etc.)
+- **Interest Application:**
+  - Simple interest during moratorium period
+  - Compound interest with monthly/quarterly rests during repayment period
+- **Interest Servicing (Optional):**
+  - Interest payment during study period and moratorium receives 1% interest concession
+- **Reset Frequency:** Interest rates reset annually
+
+## Processing Fees
+- **Application Fee:** Nil
+- **Processing Fee:** 
+  - For loans up to ₹4 lakhs: Nil
+  - For loans above ₹4 lakhs: 0.25% of loan amount
+    - Minimum: ₹1,000
+    - Maximum: ₹10,000
+  - Often waived during promotional campaigns
+- **Documentation Charges:** ₹500 - ₹1,000
+- **CIBIL Charges:** Actual as applicable
+- **Valuation Charges (for property collateral):** Actual as applicable
+- **Legal Charges (for property collateral):** Actual as applicable
+- **GST:** As applicable on all charges
+
+## Documentation Requirements
+- **Student's Documents:**
+  - Completed loan application form
+  - Passport-sized photographs (recent)
+  - Identity proof (PAN, Aadhaar, Passport, Voter ID)
+  - Address proof (Aadhaar, Passport, Utility Bills, Voter ID)
+  - Age proof (Birth Certificate, Passport, Aadhaar)
+  - Academic records:
+    - Mark sheets of last qualifying examination
+    - Proof of admission (admission letter/offer letter)
+    - Schedule of expenses for the course
+  - Copies of letters confirming scholarship, etc. (if applicable)
+  - Statement of bank account for last 6 months (if any)
+  - Income tax returns/Form 16 (if applicable for employed students)
+  - Two references from persons known to the family
+- **Co-applicant's Documents:**
+  - Identity proof (PAN, Aadhaar, Passport, Voter ID)
+  - Address proof (Aadhaar, Passport, Utility Bills, Voter ID)
+  - Income proof:
+    - Salary slips for last 3 months (for salaried)
+    - Income Tax Returns for last 2 years
+    - Form 16 for the last 2 years (for salaried)
+    - Business financial statements for last 2 years (for self-employed)
+  - Bank statements for last 6 months
+  - Signature verification from bank
+- **Collateral Documents (if applicable):**
+  - Title deeds of property
+  - Legal opinion on property
+  - Valuation report
+  - Encumbrance certificate
+  - Latest tax paid receipt
+  - Approved plan (for buildings)
+  - NOC from competent authority (if applicable)
+- **Guarantor Documents (if applicable):**
+  - Identity and address proof
+  - Income proof
+  - Latest ITR/Form 16
+  - Bank statements for last 6 months
+  - Net worth statement
+
+## Penalties / Special Conditions
+- **Prepayment Charges:** Nil
+- **Late Payment Penalties:**
+  - 2% p.a. additional interest on overdue amount
+  - Penal interest applicable only on overdue amount, not on entire outstanding
+- **Default Implications:**
+  - Adverse impact on credit score
+  - Reporting to credit bureaus
+  - Legal proceedings for recovery
+- **Loan Cancellation Charges:** Nil
+- **Special Benefits:**
+  - Tax benefits under Section 80E of Income Tax Act on interest paid
+  - No prepayment penalties
+  - Option to transfer loan to student after securing employment
+  - Repayment holiday in case of unemployment/underemployment after course completion
+  - Extension of repayment period for deserving cases
+- **Special Conditions:**
+  - Change of institution/course requires bank's permission
+  - Insurance cover for student borrower
+  - Regular progress reports to be submitted to the bank
+  - Bank's right to recall the loan in case of failure in examinations
+  - Additional finance for further studies subject to track record
+  - Diploma students continuing for graduation can apply for enhancement
+  - Branch may consider up to 5% of loan amount for unforeseen expenses
+  - Student to inform bank about securing job and salary details 
